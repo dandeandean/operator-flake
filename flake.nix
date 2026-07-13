@@ -10,6 +10,6 @@
         path = ./templates/operatorDev;
       };
     };
-    defaultTemplate = self.templates.trivial;
+    defaultTemplate = self.templates.operatorDev;
   };
 }
