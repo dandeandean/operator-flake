@@ -32,6 +32,7 @@
             kubectl
             podman
             docker
+            kind
           ];
 
           shellHook = ''
